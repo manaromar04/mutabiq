@@ -1,0 +1,89 @@
+{
+  "doc_id": "doc_0185",
+  "file": "doc_0185.jpg",
+  "layout": "L8_bi_mixed",
+  "language": "bi",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": -0.02,
+    "grayscale": true,
+    "blur": 1,
+    "noise": 12.4,
+    "jpeg_quality": 41
+  },
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "TI/26/317",
+    "issue_date": "2026-03-30",
+    "due_date": "2026-04-14",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Falcon Line General Trading LLC",
+      "legal_name_alt": "خط الصقر للتجارة العامة ذ.م.م",
+      "trn": "152059972837903",
+      "street": "Al Barsha 1",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "727191"
+    },
+    "buyer": {
+      "legal_name": "Al Safa Logistics FZE",
+      "legal_name_alt": "الصفا للخدمات اللوجستية م.م.ح",
+      "trn": "128357699085403",
+      "street": "Al Wahda Street",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "583381"
+    },
+    "lines": [
+      {
+        "description": "Drinking water 500 ml (carton)",
+        "quantity": "1",
+        "unit_price": "12.28",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "220110",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Frozen chicken 10 kg",
+        "quantity": "3",
+        "unit_price": "129.48",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "020712",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Cleaning detergent 5 L",
+        "quantity": "3",
+        "unit_price": "56.98",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "340220",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

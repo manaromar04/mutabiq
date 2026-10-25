@@ -1,0 +1,100 @@
+{
+  "doc_id": "doc_0245",
+  "file": "doc_0245.pdf",
+  "layout": "L2_en_plain",
+  "language": "en",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "line_total_wrong",
+      "description": "Line 'Consultancy' total printed as 798.09 instead of 778.09"
+    }
+  ],
+  "invoice": {
+    "number": "AE-INV-0073",
+    "issue_date": "2026-07-03",
+    "due_date": null,
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Al Jazeera Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "175475177992203",
+      "street": "Hamdan Street",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "317040"
+    },
+    "buyer": {
+      "legal_name": "Sky Tower Office Supplies Trading",
+      "legal_name_alt": null,
+      "trn": "141621052185403",
+      "street": "Al Majaz 2",
+      "city": "Sharjah",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "405173"
+    },
+    "lines": [
+      {
+        "description": "Catering service per person",
+        "quantity": "2",
+        "unit_price": "67.27",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996334",
+        "stated_net": null
+      },
+      {
+        "description": "Delivery charges",
+        "quantity": "20",
+        "unit_price": "104.36",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996511",
+        "stated_net": null
+      },
+      {
+        "description": "Consultancy",
+        "quantity": "1",
+        "unit_price": "778.09",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998311",
+        "stated_net": "798.09"
+      },
+      {
+        "description": "Printer toner cartridge",
+        "quantity": "1",
+        "unit_price": "261.73",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "844399",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": null,
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": "3281.56",
+    "stated_vat": "163.08",
+    "stated_total_incl_vat": "3444.64"
+  }
+}

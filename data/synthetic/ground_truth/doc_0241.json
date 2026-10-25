@@ -1,0 +1,83 @@
+{
+  "doc_id": "doc_0241",
+  "file": "doc_0241.pdf",
+  "layout": "L2_en_plain",
+  "language": "en",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "AE-INV-0069",
+    "issue_date": "2026-06-06",
+    "due_date": null,
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Al Jazeera Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "175475177992203",
+      "street": "Hamdan Street",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "317040"
+    },
+    "buyer": {
+      "legal_name": "Coral Reef Auto Spare Parts Trading",
+      "legal_name_alt": null,
+      "trn": "193976158464503",
+      "street": "Corniche Road",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "871109"
+    },
+    "lines": [
+      {
+        "description": "PVC pipe 4 inch (6 m)",
+        "quantity": "25",
+        "unit_price": "51.74",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "391723",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Steel rebar 12 mm (ton)",
+        "quantity": "3",
+        "unit_price": "2773.63",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "TNE",
+        "goods_or_services": "G",
+        "hs_code": "721420",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Brake pads set",
+        "quantity": "5",
+        "unit_price": "309.91",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "870830",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": null,
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

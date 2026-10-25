@@ -1,0 +1,88 @@
+{
+  "doc_id": "doc_0236",
+  "file": "doc_0236.pdf",
+  "layout": "L2_en_plain",
+  "language": "en",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "vat_miscalculated",
+      "description": "VAT printed as 73.76 instead of 73.76 (rate10)"
+    }
+  ],
+  "invoice": {
+    "number": "AE-INV-0064",
+    "issue_date": "2026-04-21",
+    "due_date": null,
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Al Jazeera Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "175475177992203",
+      "street": "Hamdan Street",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "317040"
+    },
+    "buyer": {
+      "legal_name": "Coral Reef Auto Spare Parts Trading",
+      "legal_name_alt": null,
+      "trn": "193976158464503",
+      "street": "Corniche Road",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "871109"
+    },
+    "lines": [
+      {
+        "description": "Paint, emulsion 18 L",
+        "quantity": "3",
+        "unit_price": "192.63",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "320910",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Cement bag 50 kg",
+        "quantity": "3",
+        "unit_price": "14.89",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "252329",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Drinking water 500 ml (carton)",
+        "quantity": "12",
+        "unit_price": "9.59",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "220110",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": null,
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": "737.64",
+    "stated_vat": "73.76",
+    "stated_total_incl_vat": "811.40"
+  }
+}

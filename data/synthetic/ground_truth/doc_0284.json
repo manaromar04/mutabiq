@@ -1,0 +1,76 @@
+{
+  "doc_id": "doc_0284",
+  "file": "doc_0284.xlsx",
+  "layout": "spreadsheet",
+  "language": "en",
+  "variant": "xlsx",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "total_mismatch",
+      "description": "Total incl. VAT printed as 1560.98 instead of 1550.98"
+    }
+  ],
+  "invoice": {
+    "number": "INV0284",
+    "issue_date": "2026-04-16",
+    "due_date": "2026-04-16",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "نجم الشرق لتجارة اللوازم المكتبية",
+      "legal_name_alt": null,
+      "trn": "126468616425203",
+      "street": "البرشاء 1",
+      "city": "الشارقة",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "586450"
+    },
+    "buyer": {
+      "legal_name": "الصفا للخدمات اللوجستية م.م.ح",
+      "legal_name_alt": null,
+      "trn": "128357699085403",
+      "street": "شارع الوحدة",
+      "city": "الفجيرة",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "583381"
+    },
+    "lines": [
+      {
+        "description": "ورق تصوير A4 (كرتون 5 رزم)",
+        "quantity": "12",
+        "unit_price": "93.36",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "480256",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "كيس إسمنت 50 كغ",
+        "quantity": "20",
+        "unit_price": "17.84",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "252329",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE779235240137615610591",
+    "payment_terms": "Due on receipt",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": "1560.98"
+  }
+}

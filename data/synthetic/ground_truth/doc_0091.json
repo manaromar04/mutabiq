@@ -1,0 +1,86 @@
+{
+  "doc_id": "doc_0091",
+  "file": "doc_0091.jpg",
+  "layout": "L4_ar_band",
+  "language": "ar",
+  "variant": "photo",
+  "degradation": {
+    "perspective": true,
+    "jpeg_quality": 85
+  },
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "CN-0140",
+    "issue_date": "2026-05-30",
+    "due_date": null,
+    "type_code": "381",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "الطريق المشرق لحلول تقنية المعلومات ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "132081967273103",
+      "street": "شارع الملك فيصل",
+      "city": "الفجيرة",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": null
+    },
+    "buyer": {
+      "legal_name": "الشراع الذهبي لتجارة قطع غيار السيارات",
+      "legal_name_alt": null,
+      "trn": "155521824886103",
+      "street": "منطقة الجرف الصناعية",
+      "city": "دبي",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "130278"
+    },
+    "lines": [
+      {
+        "description": "تأجير معدات (يوم)",
+        "quantity": "6",
+        "unit_price": "305.46",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "DAY",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "997313",
+        "stated_net": null
+      },
+      {
+        "description": "رسوم توصيل",
+        "quantity": "25",
+        "unit_price": "159.94",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996511",
+        "stated_net": "8007.00"
+      },
+      {
+        "description": "استشارات",
+        "quantity": "1",
+        "unit_price": "1425.70",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998311",
+        "stated_net": null
+      }
+    ],
+    "iban": "AE868584638849855683068",
+    "payment_terms": null,
+    "original_invoice_number": "AE-INV-0136",
+    "original_invoice_date": "2026-04-23",
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "doc_id": "doc_0098",
+  "file": "doc_0098.jpg",
+  "layout": "L4_ar_band",
+  "language": "ar",
+  "variant": "photo",
+  "degradation": {
+    "perspective": true,
+    "jpeg_quality": 75
+  },
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "AE-INV-0147",
+    "issue_date": "2026-08-02",
+    "due_date": null,
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "الطريق المشرق لحلول تقنية المعلومات ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "132081967273103",
+      "street": "شارع الملك فيصل",
+      "city": "الفجيرة",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": null
+    },
+    "buyer": {
+      "legal_name": "الساحل الأزرق للخدمات اللوجستية م.م.ح",
+      "legal_name_alt": null,
+      "trn": "129932157116403",
+      "street": "شارع حمدان",
+      "city": "عجمان",
+      "emirate": "AJM",
+      "country": "AE",
+      "trade_license": "CN-6058251"
+    },
+    "lines": [
+      {
+        "description": "خدمة تنظيف",
+        "quantity": "8",
+        "unit_price": "281.15",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998533",
+        "stated_net": null
+      },
+      {
+        "description": "استشارات",
+        "quantity": "50",
+        "unit_price": "484.13",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998311",
+        "stated_net": null
+      },
+      {
+        "description": "خدمة تركيب",
+        "quantity": "5",
+        "unit_price": "222.26",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998732",
+        "stated_net": null
+      }
+    ],
+    "iban": "AE868584638849855683068",
+    "payment_terms": null,
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

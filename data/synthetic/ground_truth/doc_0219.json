@@ -1,0 +1,113 @@
+{
+  "doc_id": "doc_0219",
+  "file": "doc_0219.jpg",
+  "layout": "L1_en_band",
+  "language": "en",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": 1.02,
+    "grayscale": true,
+    "blur": 2,
+    "noise": 5.7,
+    "jpeg_quality": 35
+  },
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "00078",
+    "issue_date": "2026-05-22",
+    "due_date": "2026-06-21",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Blue Coast IT Solutions LLC",
+      "legal_name_alt": null,
+      "trn": "194866283601603",
+      "street": "Al Majaz 2",
+      "city": "Sharjah",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": null
+    },
+    "buyer": {
+      "legal_name": "Al Manara General Trading LLC",
+      "legal_name_alt": null,
+      "trn": "142843528144903",
+      "street": "Al Jurf Industrial Area",
+      "city": "Ras Al Khaimah",
+      "emirate": "RAK",
+      "country": "AE",
+      "trade_license": "763949"
+    },
+    "lines": [
+      {
+        "description": "Delivery charges",
+        "quantity": "4",
+        "unit_price": "219.55",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996511",
+        "stated_net": null
+      },
+      {
+        "description": "Installation service",
+        "quantity": "2",
+        "unit_price": "295.53",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998732",
+        "stated_net": null
+      },
+      {
+        "description": "Catering service per person",
+        "quantity": "3",
+        "unit_price": "36.32",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996334",
+        "stated_net": null
+      },
+      {
+        "description": "AC maintenance visit",
+        "quantity": "8",
+        "unit_price": "259.94",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998719",
+        "stated_net": null
+      },
+      {
+        "description": "Consultancy",
+        "quantity": "5",
+        "unit_price": "890.73",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998311",
+        "stated_net": null
+      }
+    ],
+    "iban": "AE876156795965056547056",
+    "payment_terms": "Net 30",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

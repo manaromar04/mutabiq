@@ -1,0 +1,95 @@
+{
+  "doc_id": "doc_0277",
+  "file": "doc_0277.xlsx",
+  "layout": "spreadsheet",
+  "language": "en",
+  "variant": "xlsx",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "INV0277",
+    "issue_date": "2026-02-11",
+    "due_date": "2026-02-11",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "نجم الشرق لتجارة اللوازم المكتبية",
+      "legal_name_alt": null,
+      "trn": "126468616425203",
+      "street": "البرشاء 1",
+      "city": "الشارقة",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "586450"
+    },
+    "buyer": {
+      "legal_name": "الشراع الذهبي للتجارة العامة ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "179511174432503",
+      "street": "البرشاء 1",
+      "city": "العين",
+      "emirate": "AUH",
+      "country": "AE",
+      "trade_license": "630864"
+    },
+    "lines": [
+      {
+        "description": "طقم فحمات فرامل",
+        "quantity": "1",
+        "unit_price": "236.79",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "870830",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "خوذة سلامة",
+        "quantity": "1",
+        "unit_price": "32.38",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "650610",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "حديد تسليح 12 مم (طن)",
+        "quantity": "3",
+        "unit_price": "2555.83",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "TNE",
+        "goods_or_services": "G",
+        "hs_code": "721420",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "خرطوشة حبر طابعة",
+        "quantity": "5",
+        "unit_price": "263.37",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "844399",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE779235240137615610591",
+    "payment_terms": "Due on receipt",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

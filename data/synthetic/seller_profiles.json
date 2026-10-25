@@ -1,0 +1,122 @@
+{
+  "198698797309103": {
+    "legal_name_en": "Desert Rose Logistics FZE",
+    "legal_name_ar": "وردة الصحراء للخدمات اللوجستية م.م.ح",
+    "trn": "198698797309103",
+    "trade_license": "CN-2857850",
+    "iban": "AE489992480052791372987",
+    "bank": "Dubai Islamic Bank",
+    "emirate": "DXB",
+    "default_payment_terms": "Net 15"
+  },
+  "164556815188403": {
+    "legal_name_en": "Al Waha Trading LLC",
+    "legal_name_ar": "الواحة للتجارة ذ.م.م",
+    "trn": "164556815188403",
+    "trade_license": "CN-5825159",
+    "iban": "AE669113571647744796745",
+    "bank": "Dubai Islamic Bank",
+    "emirate": "FUJ",
+    "default_payment_terms": "Net 15"
+  },
+  "155761698716803": {
+    "legal_name_en": "Al Jazeera Auto Spare Parts Trading",
+    "legal_name_ar": "الجزيرة لتجارة قطع غيار السيارات",
+    "trn": "155761698716803",
+    "trade_license": "517488",
+    "iban": "AE592958639848864573284",
+    "bank": "ADCB",
+    "emirate": "AJM",
+    "default_payment_terms": "Net 60"
+  },
+  "132081967273103": {
+    "legal_name_en": "Bright Path IT Solutions LLC",
+    "legal_name_ar": "الطريق المشرق لحلول تقنية المعلومات ذ.م.م",
+    "trn": "132081967273103",
+    "trade_license": "807058",
+    "iban": "AE868584638849855683068",
+    "bank": "Mashreq",
+    "emirate": "FUJ",
+    "default_payment_terms": "Due on receipt"
+  },
+  "148876634400203": {
+    "legal_name_en": "Al Thuraya Office Supplies Trading",
+    "legal_name_ar": "الثريا لتجارة اللوازم المكتبية",
+    "trn": "148876634400203",
+    "trade_license": "942580",
+    "iban": "AE327967268350811136179",
+    "bank": "RAKBANK",
+    "emirate": "AJM",
+    "default_payment_terms": "Net 15"
+  },
+  "187680457178403": {
+    "legal_name_en": "Silver Dune Building Materials Trading",
+    "legal_name_ar": "الكثبان الفضية لتجارة مواد البناء",
+    "trn": "187680457178403",
+    "trade_license": "291940",
+    "iban": "AE906113875921153277186",
+    "bank": "Emirates NBD",
+    "emirate": "AJM",
+    "default_payment_terms": "Net 60"
+  },
+  "151362701079803": {
+    "legal_name_en": "Al Khaleej Contracting LLC",
+    "legal_name_ar": "مؤسسة الخليج للمقاولات",
+    "trn": "151362701079803",
+    "trade_license": "CN-2393608",
+    "iban": "AE622614883615202994461",
+    "bank": "Emirates NBD",
+    "emirate": "DXB",
+    "default_payment_terms": "Net 30"
+  },
+  "152059972837903": {
+    "legal_name_en": "Falcon Line General Trading LLC",
+    "legal_name_ar": "خط الصقر للتجارة العامة ذ.م.م",
+    "trn": "152059972837903",
+    "trade_license": "727191",
+    "iban": "AE338640894874643972584",
+    "bank": "Dubai Islamic Bank",
+    "emirate": "DXB",
+    "default_payment_terms": "Net 15"
+  },
+  "194866283601603": {
+    "legal_name_en": "Blue Coast IT Solutions LLC",
+    "legal_name_ar": "الساحل الأزرق لحلول تقنية المعلومات ذ.م.م",
+    "trn": "194866283601603",
+    "trade_license": "153870",
+    "iban": "AE876156795965056547056",
+    "bank": "RAKBANK",
+    "emirate": "SHJ",
+    "default_payment_terms": "Net 30"
+  },
+  "175475177992203": {
+    "legal_name_en": "Al Jazeera Logistics FZE",
+    "legal_name_ar": "الجزيرة للخدمات اللوجستية م.م.ح",
+    "trn": "175475177992203",
+    "trade_license": "317040",
+    "iban": "AE363013205987198890421",
+    "bank": "RAKBANK",
+    "emirate": "DXB",
+    "default_payment_terms": "Due on receipt"
+  },
+  "118603208073703": {
+    "legal_name_en": "Coral Reef Logistics FZE",
+    "legal_name_ar": "الشعاب المرجانية للخدمات اللوجستية م.م.ح",
+    "trn": "118603208073703",
+    "trade_license": "CN-1343426",
+    "iban": "AE810465873064248296017",
+    "bank": "First Abu Dhabi Bank",
+    "emirate": "FUJ",
+    "default_payment_terms": "Net 15"
+  },
+  "126468616425203": {
+    "legal_name_en": "Najm Al Sharq Office Supplies Trading",
+    "legal_name_ar": "نجم الشرق لتجارة اللوازم المكتبية",
+    "trn": "126468616425203",
+    "trade_license": "586450",
+    "iban": "AE779235240137615610591",
+    "bank": "Mashreq",
+    "emirate": "SHJ",
+    "default_payment_terms": "Due on receipt"
+  }
+}

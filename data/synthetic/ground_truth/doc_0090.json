@@ -1,0 +1,83 @@
+{
+  "doc_id": "doc_0090",
+  "file": "doc_0090.pdf",
+  "layout": "L4_ar_band",
+  "language": "ar",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "AE-INV-0139",
+    "issue_date": "2026-05-19",
+    "due_date": null,
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "الطريق المشرق لحلول تقنية المعلومات ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "132081967273103",
+      "street": "شارع الملك فيصل",
+      "city": "الفجيرة",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": null
+    },
+    "buyer": {
+      "legal_name": "بوابة النخيل لتجارة اللوازم المكتبية",
+      "legal_name_alt": null,
+      "trn": "125898319489303",
+      "street": "شارع الكورنيش",
+      "city": "الشارقة",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "690171"
+    },
+    "lines": [
+      {
+        "description": "زيارة صيانة مكيفات",
+        "quantity": "25",
+        "unit_price": "294.41",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998719",
+        "stated_net": null
+      },
+      {
+        "description": "خدمة تركيب",
+        "quantity": "25",
+        "unit_price": "160.68",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998732",
+        "stated_net": null
+      },
+      {
+        "description": "تأجير معدات (يوم)",
+        "quantity": "5",
+        "unit_price": "345.20",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "DAY",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "997313",
+        "stated_net": null
+      }
+    ],
+    "iban": "AE868584638849855683068",
+    "payment_terms": null,
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

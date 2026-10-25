@@ -1,0 +1,83 @@
+{
+  "doc_id": "doc_0018",
+  "file": "doc_0018.pdf",
+  "layout": "L1_en_band",
+  "language": "en",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "INV-2026-0226",
+    "issue_date": "2026-05-16",
+    "due_date": "2026-05-31",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Desert Rose Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "198698797309103",
+      "street": "King Faisal Street",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "CN-2857850"
+    },
+    "buyer": {
+      "legal_name": "Al Rayyan Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "150031450378403",
+      "street": "Al Jurf Industrial Area",
+      "city": "Umm Al Quwain",
+      "emirate": "UAQ",
+      "country": "AE",
+      "trade_license": "CN-7198079"
+    },
+    "lines": [
+      {
+        "description": "Cement bag 50 kg",
+        "quantity": "20",
+        "unit_price": "21.35",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "252329",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Brake pads set",
+        "quantity": "8",
+        "unit_price": "208.15",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "870830",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Network switch 24-port",
+        "quantity": "10",
+        "unit_price": "1390.86",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "851762",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE489992480052791372987",
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

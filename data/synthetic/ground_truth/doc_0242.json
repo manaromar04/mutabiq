@@ -1,0 +1,101 @@
+{
+  "doc_id": "doc_0242",
+  "file": "doc_0242.jpg",
+  "layout": "L2_en_plain",
+  "language": "en",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": -0.79,
+    "grayscale": true,
+    "blur": 1,
+    "noise": 5.1,
+    "jpeg_quality": 71
+  },
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "AE-INV-0070",
+    "issue_date": "2026-06-13",
+    "due_date": null,
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Al Jazeera Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "175475177992203",
+      "street": "Hamdan Street",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "317040"
+    },
+    "buyer": {
+      "legal_name": "Green Leaf Technical Services LLC",
+      "legal_name_alt": null,
+      "trn": "104422485272203",
+      "street": "Al Majaz 2",
+      "city": "Sharjah",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "CN-1899976"
+    },
+    "lines": [
+      {
+        "description": "Car battery 70 Ah",
+        "quantity": "25",
+        "unit_price": "393.40",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "850710",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Delivery charges",
+        "quantity": "50",
+        "unit_price": "204.42",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996511",
+        "stated_net": null
+      },
+      {
+        "description": "Cement bag 50 kg",
+        "quantity": "25",
+        "unit_price": "19.97",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "252329",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Engine oil 5W-30 4 L",
+        "quantity": "50",
+        "unit_price": "141.61",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "271019",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": null,
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

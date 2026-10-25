@@ -1,0 +1,88 @@
+{
+  "doc_id": "doc_0121",
+  "file": "doc_0121.pdf",
+  "layout": "L5_ar_eastern",
+  "language": "ar",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "line_total_wrong",
+      "description": "Line 'ورق تصوير A4 (كرتون 5 رزم)' total printed as 292.27 instead of 282.27"
+    }
+  ],
+  "invoice": {
+    "number": "S0185",
+    "issue_date": "2026-06-16",
+    "due_date": "2026-07-01",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "الثريا لتجارة اللوازم المكتبية",
+      "legal_name_alt": null,
+      "trn": "148876634400203",
+      "street": "البرشاء 1",
+      "city": "عجمان",
+      "emirate": "AJM",
+      "country": "AE",
+      "trade_license": "942580"
+    },
+    "buyer": {
+      "legal_name": "الشعاب المرجانية لتجارة قطع غيار السيارات",
+      "legal_name_alt": null,
+      "trn": "193976158464503",
+      "street": "شارع الكورنيش",
+      "city": "دبي",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "871109"
+    },
+    "lines": [
+      {
+        "description": "دهان مائي 18 لتر",
+        "quantity": "12",
+        "unit_price": "242.92",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "320910",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "ورق تصوير A4 (كرتون 5 رزم)",
+        "quantity": "3",
+        "unit_price": "94.09",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "480256",
+        "service_code": null,
+        "stated_net": "292.27"
+      },
+      {
+        "description": "محول شبكة 24 منفذ",
+        "quantity": "25",
+        "unit_price": "1287.29",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "851762",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE327967268350811136179",
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": "35389.56",
+    "stated_vat": "1768.98",
+    "stated_total_incl_vat": "37158.54"
+  }
+}

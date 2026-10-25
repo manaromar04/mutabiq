@@ -1,0 +1,77 @@
+{
+  "doc_id": "doc_0142",
+  "file": "doc_0142.jpg",
+  "layout": "L6_bi_band",
+  "language": "bi",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": 0.69,
+    "grayscale": true,
+    "blur": 0,
+    "noise": 12.5,
+    "jpeg_quality": 75
+  },
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "INV0049",
+    "issue_date": "2026-05-05",
+    "due_date": "2026-07-04",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Silver Dune Building Materials Trading",
+      "legal_name_alt": "الكثبان الفضية لتجارة مواد البناء",
+      "trn": "187680457178403",
+      "street": "Al Jurf Industrial Area",
+      "city": "Ajman",
+      "emirate": "AJM",
+      "country": "AE",
+      "trade_license": "291940"
+    },
+    "buyer": {
+      "legal_name": "Golden Sail Auto Spare Parts Trading",
+      "legal_name_alt": "الشراع الذهبي لتجارة قطع غيار السيارات",
+      "trn": "155521824886103",
+      "street": "Al Jurf Industrial Area",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "130278"
+    },
+    "lines": [
+      {
+        "description": "حاسوب محمول 14 إنش",
+        "quantity": "4",
+        "unit_price": "2300.40",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "847130",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Cleaning detergent 5 L",
+        "quantity": "3",
+        "unit_price": "41.89",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "340220",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE906113875921153277186",
+    "payment_terms": "Net 60",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "doc_id": "doc_0119",
+  "file": "doc_0119.jpg",
+  "layout": "L5_ar_eastern",
+  "language": "ar",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": 0.31,
+    "grayscale": true,
+    "blur": 1,
+    "noise": 4.5,
+    "jpeg_quality": 49
+  },
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "buyer_trn_short",
+      "description": "Buyer TRN printed with 14 digits (14692566636303)"
+    }
+  ],
+  "invoice": {
+    "number": "S0183",
+    "issue_date": "2026-06-01",
+    "due_date": "2026-06-16",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "الثريا لتجارة اللوازم المكتبية",
+      "legal_name_alt": null,
+      "trn": "148876634400203",
+      "street": "البرشاء 1",
+      "city": "عجمان",
+      "emirate": "AJM",
+      "country": "AE",
+      "trade_license": "942580"
+    },
+    "buyer": {
+      "legal_name": "وردة الصحراء للتجارة ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "14692566636303",
+      "street": "شارع الملك فيصل",
+      "city": "الشارقة",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "CN-3100642"
+    },
+    "lines": [
+      {
+        "description": "بطارية سيارة 70 أمبير",
+        "quantity": "5",
+        "unit_price": "392.15",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "850710",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "أنبوب بي في سي 4 إنش (6 م)",
+        "quantity": "50",
+        "unit_price": "52.20",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "391723",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE327967268350811136179",
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

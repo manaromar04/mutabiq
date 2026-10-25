@@ -1,0 +1,103 @@
+{
+  "doc_id": "doc_0309",
+  "file": "doc_0309.jpg",
+  "layout": "L3_en_boxed",
+  "language": "en",
+  "variant": "photo",
+  "degradation": {
+    "perspective": true,
+    "jpeg_quality": 61
+  },
+  "duplicate_of": "doc_0264",
+  "errors": [
+    {
+      "type": "duplicate_invoice",
+      "description": "Same invoice as doc_0264"
+    }
+  ],
+  "invoice": {
+    "number": "S0014",
+    "issue_date": "2026-04-29",
+    "due_date": "2026-05-14",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Coral Reef Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "118603208073703",
+      "street": "Al Barsha 1",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "CN-1343426"
+    },
+    "buyer": {
+      "legal_name": "Desert Rose Trading LLC",
+      "legal_name_alt": null,
+      "trn": "140692566636303",
+      "street": "King Faisal Street",
+      "city": "Sharjah",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "CN-3100642"
+    },
+    "lines": [
+      {
+        "description": "Cleaning detergent 5 L",
+        "quantity": "6",
+        "unit_price": "27.39",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "340220",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Delivery charges",
+        "quantity": "1",
+        "unit_price": "113.04",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996511",
+        "stated_net": null
+      },
+      {
+        "description": "AC maintenance visit",
+        "quantity": "4",
+        "unit_price": "339.04",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998719",
+        "stated_net": null
+      },
+      {
+        "description": "Engine oil 5W-30 4 L",
+        "quantity": "1",
+        "unit_price": "117.07",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "271019",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

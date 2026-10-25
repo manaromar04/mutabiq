@@ -1,0 +1,106 @@
+{
+  "doc_id": "doc_0049",
+  "file": "doc_0049.jpg",
+  "layout": "L2_en_plain",
+  "language": "en",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": 0.94,
+    "grayscale": false,
+    "blur": 0,
+    "noise": 8.6,
+    "jpeg_quality": 47
+  },
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "buyer_trn_bad_format",
+      "description": "Buyer TRN does not end in 03 (183755559747530)"
+    }
+  ],
+  "invoice": {
+    "number": "TI/26/381",
+    "issue_date": "2026-08-01",
+    "due_date": "2026-08-16",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Al Waha Trading LLC",
+      "legal_name_alt": null,
+      "trn": "164556815188403",
+      "street": "Khalifa Street",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "CN-5825159"
+    },
+    "buyer": {
+      "legal_name": "Al Safa IT Solutions LLC",
+      "legal_name_alt": null,
+      "trn": "183755559747530",
+      "street": "Hamdan Street",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "138498"
+    },
+    "lines": [
+      {
+        "description": "Basmati rice 25 kg",
+        "quantity": "8",
+        "unit_price": "112.47",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "100630",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Paint, emulsion 18 L",
+        "quantity": "20",
+        "unit_price": "168.99",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "320910",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Drinking water 500 ml (carton)",
+        "quantity": "12",
+        "unit_price": "15.72",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "220110",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Cement bag 50 kg",
+        "quantity": "12",
+        "unit_price": "16.56",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "252329",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

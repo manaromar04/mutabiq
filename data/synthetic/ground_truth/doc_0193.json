@@ -1,0 +1,125 @@
+{
+  "doc_id": "doc_0193",
+  "file": "doc_0193.jpg",
+  "layout": "L8_bi_mixed",
+  "language": "bi",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": -1.65,
+    "grayscale": false,
+    "blur": 1,
+    "noise": 5.9,
+    "jpeg_quality": 61
+  },
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "TI/26/325",
+    "issue_date": "2026-05-25",
+    "due_date": "2026-06-09",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Falcon Line General Trading LLC",
+      "legal_name_alt": "خط الصقر للتجارة العامة ذ.م.م",
+      "trn": "152059972837903",
+      "street": "Al Barsha 1",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "727191"
+    },
+    "buyer": {
+      "legal_name": "Sky Tower Technical Services LLC",
+      "legal_name_alt": "برج السماء للخدمات الفنية ذ.م.م",
+      "trn": "104385817625203",
+      "street": "Hamdan Street",
+      "city": "Umm Al Quwain",
+      "emirate": "UAQ",
+      "country": "AE",
+      "trade_license": "142229"
+    },
+    "lines": [
+      {
+        "description": "Drinking water 500 ml (carton)",
+        "quantity": "25",
+        "unit_price": "12.00",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "220110",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Printer toner cartridge",
+        "quantity": "6",
+        "unit_price": "395.14",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "844399",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "زيت محرك 5W-30 4 لتر",
+        "quantity": "25",
+        "unit_price": "111.14",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "271019",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Network switch 24-port",
+        "quantity": "1",
+        "unit_price": "1299.03",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "851762",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "LED panel light 60x60",
+        "quantity": "8",
+        "unit_price": "137.52",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "940540",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "منظف 5 لتر",
+        "quantity": "1",
+        "unit_price": "53.09",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "340220",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

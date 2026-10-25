@@ -1,0 +1,127 @@
+{
+  "doc_id": "doc_0166",
+  "file": "doc_0166.jpg",
+  "layout": "L7_bi_boxed",
+  "language": "bi",
+  "variant": "photo",
+  "degradation": {
+    "perspective": true,
+    "jpeg_quality": 68
+  },
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "total_mismatch",
+      "description": "Total incl. VAT printed as 20108.10 instead of 20208.10"
+    }
+  ],
+  "invoice": {
+    "number": "INV-2026-0311",
+    "issue_date": "2026-04-17",
+    "due_date": "2026-05-17",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Al Khaleej Contracting LLC",
+      "legal_name_alt": "مؤسسة الخليج للمقاولات",
+      "trn": "151362701079803",
+      "street": "Al Jurf Industrial Area",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "CN-2393608"
+    },
+    "buyer": {
+      "legal_name": "Al Manara General Trading LLC",
+      "legal_name_alt": "المنارة للتجارة العامة ذ.م.م",
+      "trn": "142843528144903",
+      "street": "Al Jurf Industrial Area",
+      "city": "Ras Al Khaimah",
+      "emirate": "RAK",
+      "country": "AE",
+      "trade_license": "763949"
+    },
+    "lines": [
+      {
+        "description": "IT support (monthly)",
+        "quantity": "1",
+        "unit_price": "1723.57",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "MON",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998313",
+        "stated_net": null
+      },
+      {
+        "description": "خدمة تموين للشخص",
+        "quantity": "5",
+        "unit_price": "71.72",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996334",
+        "stated_net": null
+      },
+      {
+        "description": "Cement bag 50 kg",
+        "quantity": "10",
+        "unit_price": "16.95",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "252329",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Safety helmet",
+        "quantity": "25",
+        "unit_price": "26.18",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "650610",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Car battery 70 Ah",
+        "quantity": "25",
+        "unit_price": "585.23",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "850710",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "زيارة صيانة مكيفات",
+        "quantity": "3",
+        "unit_price": "569.63",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998719",
+        "stated_net": null
+      }
+    ],
+    "iban": "AE622614883615202994461",
+    "payment_terms": "Net 30",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": "20108.10"
+  }
+}

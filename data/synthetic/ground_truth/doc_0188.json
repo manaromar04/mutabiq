@@ -1,0 +1,119 @@
+{
+  "doc_id": "doc_0188",
+  "file": "doc_0188.pdf",
+  "layout": "L8_bi_mixed",
+  "language": "bi",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "TI/26/320",
+    "issue_date": "2026-04-23",
+    "due_date": "2026-05-08",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Falcon Line General Trading LLC",
+      "legal_name_alt": "خط الصقر للتجارة العامة ذ.م.م",
+      "trn": "152059972837903",
+      "street": "Al Barsha 1",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "727191"
+    },
+    "buyer": {
+      "legal_name": "Al Safa Logistics FZE",
+      "legal_name_alt": "الصفا للخدمات اللوجستية م.م.ح",
+      "trn": "128357699085403",
+      "street": "Al Wahda Street",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "583381"
+    },
+    "lines": [
+      {
+        "description": "Basmati rice 25 kg",
+        "quantity": "1",
+        "unit_price": "129.93",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "100630",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "حاسوب محمول 14 إنش",
+        "quantity": "1",
+        "unit_price": "3585.80",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "847130",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "دجاج مجمد 10 كغ",
+        "quantity": "50",
+        "unit_price": "92.75",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "020712",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "ورق تصوير A4 (كرتون 5 رزم)",
+        "quantity": "4",
+        "unit_price": "95.82",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "480256",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "أنبوب بي في سي 4 إنش (6 م)",
+        "quantity": "50",
+        "unit_price": "40.36",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "391723",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Printer toner cartridge",
+        "quantity": "12",
+        "unit_price": "338.85",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "844399",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

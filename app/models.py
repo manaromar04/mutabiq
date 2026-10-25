@@ -24,6 +24,7 @@ def money(x) -> Decimal:
 
 class Party(BaseModel):
     legal_name: str
+    legal_name_alt: Optional[str] = None  # the same name in the other language, if printed
     trn: Optional[str] = Field(None, description="15-digit VAT Tax Registration Number")
     street: str = ""
     city: str = ""
@@ -47,6 +48,7 @@ class InvoiceLine(BaseModel):
     goods_or_services: str = "G"  # G = goods, S = services
     hs_code: Optional[str] = None # Harmonised System code, required by PINT AE for goods
     service_code: Optional[str] = None  # Service accounting code (SAC), required for services
+    stated_net: Optional[Decimal] = None  # line total as printed (may be wrong on the document)
 
     @property
     def net(self) -> Decimal:

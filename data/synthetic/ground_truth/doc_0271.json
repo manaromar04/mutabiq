@@ -1,0 +1,125 @@
+{
+  "doc_id": "doc_0271",
+  "file": "doc_0271.jpg",
+  "layout": "L3_en_boxed",
+  "language": "en",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": 0.89,
+    "grayscale": false,
+    "blur": 2,
+    "noise": 9.4,
+    "jpeg_quality": 73
+  },
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "S0021",
+    "issue_date": "2026-06-29",
+    "due_date": "2026-07-14",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Coral Reef Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "118603208073703",
+      "street": "Al Barsha 1",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "CN-1343426"
+    },
+    "buyer": {
+      "legal_name": "Al Hikma Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "167534789713303",
+      "street": "Musaffah M-12",
+      "city": "Sharjah",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "CN-2943688"
+    },
+    "lines": [
+      {
+        "description": "Paint, emulsion 18 L",
+        "quantity": "1",
+        "unit_price": "246.99",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "320910",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Laptop 14 inch",
+        "quantity": "10",
+        "unit_price": "3823.32",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "847130",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Delivery charges",
+        "quantity": "12",
+        "unit_price": "244.03",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996511",
+        "stated_net": null
+      },
+      {
+        "description": "Cement bag 50 kg",
+        "quantity": "25",
+        "unit_price": "21.45",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "252329",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "A4 copy paper (box of 5 reams)",
+        "quantity": "8",
+        "unit_price": "110.07",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "480256",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Network switch 24-port",
+        "quantity": "12",
+        "unit_price": "1595.11",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "851762",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

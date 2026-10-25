@@ -1,0 +1,83 @@
+{
+  "doc_id": "doc_0296",
+  "file": "doc_0296.xlsx",
+  "layout": "spreadsheet",
+  "language": "en",
+  "variant": "xlsx",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "INV0296",
+    "issue_date": "2026-07-11",
+    "due_date": "2026-07-11",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "نجم الشرق لتجارة اللوازم المكتبية",
+      "legal_name_alt": null,
+      "trn": "126468616425203",
+      "street": "البرشاء 1",
+      "city": "الشارقة",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "586450"
+    },
+    "buyer": {
+      "legal_name": "الشراع الذهبي للتجارة العامة ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "179511174432503",
+      "street": "البرشاء 1",
+      "city": "العين",
+      "emirate": "AUH",
+      "country": "AE",
+      "trade_license": "630864"
+    },
+    "lines": [
+      {
+        "description": "طقم فحمات فرامل",
+        "quantity": "1",
+        "unit_price": "297.89",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "870830",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "مياه شرب 500 مل (كرتون)",
+        "quantity": "6",
+        "unit_price": "13.11",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "220110",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "كرسي مكتب مريح",
+        "quantity": "4",
+        "unit_price": "870.37",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "940130",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE779235240137615610591",
+    "payment_terms": "Due on receipt",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "doc_id": "doc_0172",
+  "file": "doc_0172.pdf",
+  "layout": "L7_bi_boxed",
+  "language": "bi",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "buyer_trn_missing",
+      "description": "Buyer TRN not printed"
+    }
+  ],
+  "invoice": {
+    "number": "INV-2026-0317",
+    "issue_date": "2026-05-26",
+    "due_date": "2026-06-25",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Al Khaleej Contracting LLC",
+      "legal_name_alt": "مؤسسة الخليج للمقاولات",
+      "trn": "151362701079803",
+      "street": "Al Jurf Industrial Area",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "CN-2393608"
+    },
+    "buyer": {
+      "legal_name": "Al Manara General Trading LLC",
+      "legal_name_alt": "المنارة للتجارة العامة ذ.م.م",
+      "trn": null,
+      "street": "Al Jurf Industrial Area",
+      "city": "Ras Al Khaimah",
+      "emirate": "RAK",
+      "country": "AE",
+      "trade_license": "763949"
+    },
+    "lines": [
+      {
+        "description": "كيس إسمنت 50 كغ",
+        "quantity": "6",
+        "unit_price": "16.83",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "252329",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "LED panel light 60x60",
+        "quantity": "4",
+        "unit_price": "87.03",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "940540",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "بطارية سيارة 70 أمبير",
+        "quantity": "12",
+        "unit_price": "351.49",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "850710",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "خرطوشة حبر طابعة",
+        "quantity": "10",
+        "unit_price": "393.76",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "844399",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE622614883615202994461",
+    "payment_terms": "Net 30",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "doc_id": "doc_0056",
+  "file": "doc_0056.jpg",
+  "layout": "L3_en_boxed",
+  "language": "en",
+  "variant": "photo",
+  "degradation": {
+    "perspective": true,
+    "jpeg_quality": 69
+  },
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "vat_miscalculated",
+      "description": "VAT printed as 129.95 instead of 129.95 (typo)"
+    }
+  ],
+  "invoice": {
+    "number": "00349",
+    "issue_date": "2026-02-23",
+    "due_date": "2026-04-24",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Al Jazeera Auto Spare Parts Trading",
+      "legal_name_alt": null,
+      "trn": "155761698716803",
+      "street": "Musaffah M-12",
+      "city": "Ajman",
+      "emirate": "AJM",
+      "country": "AE",
+      "trade_license": null
+    },
+    "buyer": {
+      "legal_name": "Emirates Pearl Catering Services",
+      "legal_name_alt": null,
+      "trn": "164600130411803",
+      "street": "Sheikh Zayed Road",
+      "city": "Ajman",
+      "emirate": "AJM",
+      "country": "AE",
+      "trade_license": "430274"
+    },
+    "lines": [
+      {
+        "description": "Network switch 24-port",
+        "quantity": "1",
+        "unit_price": "799.06",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "851762",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE592958639848864573284",
+    "payment_terms": "Net 60",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": "799.06",
+    "stated_vat": "129.95",
+    "stated_total_incl_vat": "929.01"
+  }
+}

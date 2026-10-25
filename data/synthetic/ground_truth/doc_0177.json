@@ -1,0 +1,83 @@
+{
+  "doc_id": "doc_0177",
+  "file": "doc_0177.pdf",
+  "layout": "L8_bi_mixed",
+  "language": "bi",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "TI/26/309",
+    "issue_date": "2026-01-31",
+    "due_date": "2026-02-15",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Falcon Line General Trading LLC",
+      "legal_name_alt": "خط الصقر للتجارة العامة ذ.م.م",
+      "trn": "152059972837903",
+      "street": "Al Barsha 1",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "727191"
+    },
+    "buyer": {
+      "legal_name": "Al Hikma Logistics FZE",
+      "legal_name_alt": "الحكمة للخدمات اللوجستية م.م.ح",
+      "trn": "167534789713303",
+      "street": "Musaffah M-12",
+      "city": "Sharjah",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "CN-2943688"
+    },
+    "lines": [
+      {
+        "description": "طقم فحمات فرامل",
+        "quantity": "5",
+        "unit_price": "216.15",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "870830",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "دهان مائي 18 لتر",
+        "quantity": "4",
+        "unit_price": "233.74",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "320910",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Frozen chicken 10 kg",
+        "quantity": "1",
+        "unit_price": "139.35",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "020712",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

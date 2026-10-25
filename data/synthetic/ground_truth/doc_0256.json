@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0256",
+  "file": "doc_0256.pdf",
+  "layout": "L3_en_boxed",
+  "language": "en",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "line_total_wrong",
+      "description": "Line 'LED panel light 60x60' total printed as 2171.80 instead of 2221.80"
+    }
+  ],
+  "invoice": {
+    "number": "S0006",
+    "issue_date": "2026-02-18",
+    "due_date": "2026-03-05",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Coral Reef Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "118603208073703",
+      "street": "Al Barsha 1",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "CN-1343426"
+    },
+    "buyer": {
+      "legal_name": "Al Safa Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "128357699085403",
+      "street": "Al Wahda Street",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "583381"
+    },
+    "lines": [
+      {
+        "description": "LED panel light 60x60",
+        "quantity": "20",
+        "unit_price": "111.09",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "940540",
+        "service_code": null,
+        "stated_net": "2171.80"
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": "2171.80",
+    "stated_vat": "111.09",
+    "stated_total_incl_vat": "2282.89"
+  }
+}

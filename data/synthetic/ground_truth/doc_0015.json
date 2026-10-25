@@ -1,0 +1,95 @@
+{
+  "doc_id": "doc_0015",
+  "file": "doc_0015.pdf",
+  "layout": "L1_en_band",
+  "language": "en",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "CN-0223",
+    "issue_date": "2026-04-23",
+    "due_date": null,
+    "type_code": "381",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Desert Rose Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "198698797309103",
+      "street": "King Faisal Street",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "CN-2857850"
+    },
+    "buyer": {
+      "legal_name": "Silver Dune Contracting LLC",
+      "legal_name_alt": null,
+      "trn": "194326270586003",
+      "street": "Al Majaz 2",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "188297"
+    },
+    "lines": [
+      {
+        "description": "PVC pipe 4 inch (6 m)",
+        "quantity": "4",
+        "unit_price": "48.94",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "391723",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Drinking water 500 ml (carton)",
+        "quantity": "3",
+        "unit_price": "15.10",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "220110",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Paint, emulsion 18 L",
+        "quantity": "2",
+        "unit_price": "124.76",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "320910",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Cement bag 50 kg",
+        "quantity": "1",
+        "unit_price": "20.95",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "252329",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE489992480052791372987",
+    "payment_terms": "Net 15",
+    "original_invoice_number": "INV-2026-0218",
+    "original_invoice_date": "2026-03-24",
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

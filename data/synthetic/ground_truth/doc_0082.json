@@ -1,0 +1,107 @@
+{
+  "doc_id": "doc_0082",
+  "file": "doc_0082.pdf",
+  "layout": "L4_ar_band",
+  "language": "ar",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "AE-INV-0131",
+    "issue_date": "2026-03-14",
+    "due_date": null,
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "الطريق المشرق لحلول تقنية المعلومات ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "132081967273103",
+      "street": "شارع الملك فيصل",
+      "city": "الفجيرة",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": null
+    },
+    "buyer": {
+      "legal_name": "الورقة الخضراء للخدمات الفنية ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "104422485272203",
+      "street": "المجاز 2",
+      "city": "الشارقة",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "CN-1899976"
+    },
+    "lines": [
+      {
+        "description": "خدمة تنظيف",
+        "quantity": "20",
+        "unit_price": "151.85",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998533",
+        "stated_net": null
+      },
+      {
+        "description": "زيارة صيانة مكيفات",
+        "quantity": "10",
+        "unit_price": "295.08",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998719",
+        "stated_net": null
+      },
+      {
+        "description": "خدمة تركيب",
+        "quantity": "1",
+        "unit_price": "424.41",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998732",
+        "stated_net": null
+      },
+      {
+        "description": "تأجير معدات (يوم)",
+        "quantity": "4",
+        "unit_price": "281.01",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "DAY",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "997313",
+        "stated_net": null
+      },
+      {
+        "description": "استشارات",
+        "quantity": "8",
+        "unit_price": "820.11",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998311",
+        "stated_net": null
+      }
+    ],
+    "iban": "AE868584638849855683068",
+    "payment_terms": null,
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

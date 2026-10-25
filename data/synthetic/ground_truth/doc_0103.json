@@ -1,0 +1,94 @@
+{
+  "doc_id": "doc_0103",
+  "file": "doc_0103.jpg",
+  "layout": "L5_ar_eastern",
+  "language": "ar",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": 0.01,
+    "grayscale": false,
+    "blur": 0,
+    "noise": 5.8,
+    "jpeg_quality": 61
+  },
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "vat_miscalculated",
+      "description": "VAT printed as 197.35 instead of 197.35 (on_gross)"
+    }
+  ],
+  "invoice": {
+    "number": "S0167",
+    "issue_date": "2026-02-07",
+    "due_date": "2026-02-22",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "الثريا لتجارة اللوازم المكتبية",
+      "legal_name_alt": null,
+      "trn": "148876634400203",
+      "street": "البرشاء 1",
+      "city": "عجمان",
+      "emirate": "AJM",
+      "country": "AE",
+      "trade_license": "942580"
+    },
+    "buyer": {
+      "legal_name": "وردة الصحراء للتجارة ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "140692566636303",
+      "street": "شارع الملك فيصل",
+      "city": "الشارقة",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "CN-3100642"
+    },
+    "lines": [
+      {
+        "description": "طقم فحمات فرامل",
+        "quantity": "1",
+        "unit_price": "314.01",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "870830",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "بطارية سيارة 70 أمبير",
+        "quantity": "2",
+        "unit_price": "414.49",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "850710",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "ورق تصوير A4 (كرتون 5 رزم)",
+        "quantity": "20",
+        "unit_price": "130.80",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "480256",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE327967268350811136179",
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": "3758.99",
+    "stated_vat": "197.35",
+    "stated_total_incl_vat": "3956.34"
+  }
+}

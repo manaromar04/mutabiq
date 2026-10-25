@@ -1,0 +1,100 @@
+{
+  "doc_id": "doc_0087",
+  "file": "doc_0087.pdf",
+  "layout": "L4_ar_band",
+  "language": "ar",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "line_total_wrong",
+      "description": "Line 'رسوم توصيل' total printed as 8007.00 instead of 7997.00"
+    }
+  ],
+  "invoice": {
+    "number": "AE-INV-0136",
+    "issue_date": "2026-04-23",
+    "due_date": null,
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "الطريق المشرق لحلول تقنية المعلومات ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "132081967273103",
+      "street": "شارع الملك فيصل",
+      "city": "الفجيرة",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": null
+    },
+    "buyer": {
+      "legal_name": "الشراع الذهبي لتجارة قطع غيار السيارات",
+      "legal_name_alt": null,
+      "trn": "155521824886103",
+      "street": "منطقة الجرف الصناعية",
+      "city": "دبي",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "130278"
+    },
+    "lines": [
+      {
+        "description": "تأجير معدات (يوم)",
+        "quantity": "12",
+        "unit_price": "305.46",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "DAY",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "997313",
+        "stated_net": null
+      },
+      {
+        "description": "رسوم توصيل",
+        "quantity": "50",
+        "unit_price": "159.94",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996511",
+        "stated_net": "8007.00"
+      },
+      {
+        "description": "استشارات",
+        "quantity": "1",
+        "unit_price": "1425.70",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998311",
+        "stated_net": null
+      },
+      {
+        "description": "خدمة تركيب",
+        "quantity": "4",
+        "unit_price": "260.67",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998732",
+        "stated_net": null
+      }
+    ],
+    "iban": "AE868584638849855683068",
+    "payment_terms": null,
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": "14140.90",
+    "stated_vat": "706.55",
+    "stated_total_incl_vat": "14847.45"
+  }
+}

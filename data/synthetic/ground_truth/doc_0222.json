@@ -1,0 +1,59 @@
+{
+  "doc_id": "doc_0222",
+  "file": "doc_0222.pdf",
+  "layout": "L1_en_band",
+  "language": "en",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "00081",
+    "issue_date": "2026-06-08",
+    "due_date": "2026-07-08",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Blue Coast IT Solutions LLC",
+      "legal_name_alt": null,
+      "trn": "194866283601603",
+      "street": "Al Majaz 2",
+      "city": "Sharjah",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": null
+    },
+    "buyer": {
+      "legal_name": "Al Sahel IT Solutions LLC",
+      "legal_name_alt": null,
+      "trn": "158771884133003",
+      "street": "Al Ittihad Road",
+      "city": "Ajman",
+      "emirate": "AJM",
+      "country": "AE",
+      "trade_license": "576172"
+    },
+    "lines": [
+      {
+        "description": "Consultancy",
+        "quantity": "4",
+        "unit_price": "615.20",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998311",
+        "stated_net": null
+      }
+    ],
+    "iban": "AE876156795965056547056",
+    "payment_terms": "Net 30",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "doc_id": "doc_0290",
+  "file": "doc_0290.xlsx",
+  "layout": "spreadsheet",
+  "language": "en",
+  "variant": "xlsx",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "CN-INV0290",
+    "issue_date": "2026-05-25",
+    "due_date": null,
+    "type_code": "381",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "نجم الشرق لتجارة اللوازم المكتبية",
+      "legal_name_alt": null,
+      "trn": "126468616425203",
+      "street": "البرشاء 1",
+      "city": "الشارقة",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "586450"
+    },
+    "buyer": {
+      "legal_name": "الشعاب المرجانية لتجارة قطع غيار السيارات",
+      "legal_name_alt": null,
+      "trn": "193976158464503",
+      "street": "شارع الكورنيش",
+      "city": "دبي",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "871109"
+    },
+    "lines": [
+      {
+        "description": "كيس إسمنت 50 كغ",
+        "quantity": "3",
+        "unit_price": "20.62",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "252329",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "أنبوب بي في سي 4 إنش (6 م)",
+        "quantity": "3",
+        "unit_price": "58.15",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "391723",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE779235240137615610591",
+    "payment_terms": "Due on receipt",
+    "original_invoice_number": "INV0287",
+    "original_invoice_date": "2026-05-02",
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

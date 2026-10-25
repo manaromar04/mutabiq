@@ -1,0 +1,83 @@
+{
+  "doc_id": "doc_0180",
+  "file": "doc_0180.pdf",
+  "layout": "L8_bi_mixed",
+  "language": "bi",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "TI/26/312",
+    "issue_date": "2026-02-20",
+    "due_date": "2026-03-07",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Falcon Line General Trading LLC",
+      "legal_name_alt": "خط الصقر للتجارة العامة ذ.م.م",
+      "trn": "152059972837903",
+      "street": "Al Barsha 1",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "727191"
+    },
+    "buyer": {
+      "legal_name": "Al Safa IT Solutions LLC",
+      "legal_name_alt": "الصفا لحلول تقنية المعلومات ذ.م.م",
+      "trn": "183755559747503",
+      "street": "Hamdan Street",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "138498"
+    },
+    "lines": [
+      {
+        "description": "LED panel light 60x60",
+        "quantity": "5",
+        "unit_price": "114.30",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "940540",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Brake pads set",
+        "quantity": "12",
+        "unit_price": "256.37",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "870830",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Cleaning detergent 5 L",
+        "quantity": "50",
+        "unit_price": "50.33",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "340220",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

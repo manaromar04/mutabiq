@@ -1,0 +1,94 @@
+{
+  "doc_id": "doc_0252",
+  "file": "doc_0252.jpg",
+  "layout": "L3_en_boxed",
+  "language": "en",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": 0.93,
+    "grayscale": false,
+    "blur": 2,
+    "noise": 11.7,
+    "jpeg_quality": 62
+  },
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "unusual_amount",
+      "description": "Quantity of 'AC maintenance visit' inflated to 750"
+    }
+  ],
+  "invoice": {
+    "number": "S0002",
+    "issue_date": "2026-01-29",
+    "due_date": "2026-02-13",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Coral Reef Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "118603208073703",
+      "street": "Al Barsha 1",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "CN-1343426"
+    },
+    "buyer": {
+      "legal_name": "Al Mustaqbal Trading LLC",
+      "legal_name_alt": null,
+      "trn": "117883655062003",
+      "street": "Corniche Road",
+      "city": "Ras Al Khaimah",
+      "emirate": "RAK",
+      "country": "AE",
+      "trade_license": "686071"
+    },
+    "lines": [
+      {
+        "description": "Frozen chicken 10 kg",
+        "quantity": "6",
+        "unit_price": "117.21",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "020712",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "AC maintenance visit",
+        "quantity": "750",
+        "unit_price": "547.86",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998719",
+        "stated_net": null
+      },
+      {
+        "description": "Catering service per person",
+        "quantity": "5",
+        "unit_price": "98.46",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996334",
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

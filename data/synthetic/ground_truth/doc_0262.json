@@ -1,0 +1,89 @@
+{
+  "doc_id": "doc_0262",
+  "file": "doc_0262.jpg",
+  "layout": "L3_en_boxed",
+  "language": "en",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": 1.52,
+    "grayscale": true,
+    "blur": 1,
+    "noise": 4.6,
+    "jpeg_quality": 52
+  },
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "S0012",
+    "issue_date": "2026-04-13",
+    "due_date": "2026-04-28",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Coral Reef Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "118603208073703",
+      "street": "Al Barsha 1",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "CN-1343426"
+    },
+    "buyer": {
+      "legal_name": "Bright Path Auto Spare Parts Trading",
+      "legal_name_alt": null,
+      "trn": "182802582201803",
+      "street": "Corniche Road",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "982809"
+    },
+    "lines": [
+      {
+        "description": "Equipment rental (day)",
+        "quantity": "5",
+        "unit_price": "966.41",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "DAY",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "997313",
+        "stated_net": null
+      },
+      {
+        "description": "Brake pads set",
+        "quantity": "6",
+        "unit_price": "198.01",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "870830",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Car battery 70 Ah",
+        "quantity": "25",
+        "unit_price": "339.90",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "850710",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

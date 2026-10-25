@@ -1,0 +1,84 @@
+doc_id,error_type,expected_detector,description
+doc_0003,buyer_trn_short,official_rules,Buyer TRN printed with 14 digits (15898319489303)
+doc_0005,vat_miscalculated,official_rules,VAT printed as 25.81 instead of 25.81 (typo)
+doc_0011,line_total_wrong,official_rules,Line 'Laptop 14 inch' total printed as 53412.56 instead of 53392.56
+doc_0016,line_total_wrong,official_rules,Line 'Frozen chicken 10 kg' total printed as 587.42 instead of 597.42
+doc_0019,line_total_wrong,official_rules,Line 'Car battery 70 Ah' total printed as 4762.00 instead of 4772.00
+doc_0020,buyer_trn_missing,official_rules,Buyer TRN not printed
+doc_0022,due_before_issue,uae_checks,Due date 2026-05-21 is before issue date 2026-06-18
+doc_0029,buyer_trn_short,official_rules,Buyer TRN printed with 14 digits (17951174432503)
+doc_0032,buyer_trn_bad_format,official_rules,Buyer TRN does not end in 03 (140692566636300)
+doc_0036,due_before_issue,uae_checks,Due date 2026-03-18 is before issue date 2026-04-17
+doc_0040,due_before_issue,uae_checks,Due date 2026-05-08 is before issue date 2026-05-17
+doc_0048,buyer_trn_short,official_rules,Buyer TRN printed with 14 digits (17951117442503)
+doc_0049,buyer_trn_bad_format,official_rules,Buyer TRN does not end in 03 (183755559747530)
+doc_0056,vat_miscalculated,official_rules,VAT printed as 129.95 instead of 129.95 (typo)
+doc_0057,buyer_trn_bad_format,official_rules,Buyer TRN does not end in 03 (141621052185407)
+doc_0063,vat_miscalculated,official_rules,VAT printed as 67.42 instead of 67.42 (typo)
+doc_0075,buyer_trn_missing,official_rules,Buyer TRN not printed
+doc_0077,total_mismatch,official_rules,Total incl. VAT printed as 1369.33 instead of 1319.33
+doc_0081,buyer_trn_bad_format,official_rules,Buyer TRN does not end in 03 (129932157116407)
+doc_0084,total_mismatch,official_rules,Total incl. VAT printed as 13322.49 instead of 13422.49
+doc_0086,vat_miscalculated,official_rules,VAT printed as 294.82 instead of 294.82 (rate10)
+doc_0087,line_total_wrong,official_rules,Line 'رسوم توصيل' total printed as 8007.00 instead of 7997.00
+doc_0096,vat_miscalculated,official_rules,VAT printed as 1168.35 instead of 1168.35 (typo)
+doc_0103,vat_miscalculated,official_rules,VAT printed as 197.35 instead of 197.35 (on_gross)
+doc_0105,buyer_trn_short,official_rules,Buyer TRN printed with 14 digits (12835769985403)
+doc_0112,buyer_trn_short,official_rules,Buyer TRN printed with 14 digits (17354864906103)
+doc_0119,buyer_trn_short,official_rules,Buyer TRN printed with 14 digits (14692566636303)
+doc_0121,line_total_wrong,official_rules,Line 'ورق تصوير A4 (كرتون 5 رزم)' total printed as 292.27 instead of 282.27
+doc_0123,buyer_trn_short,official_rules,Buyer TRN printed with 14 digits (12835769085403)
+doc_0126,unusual_amount,anomaly_detection,Quantity of 'Laptop 14 inch' inflated to 45
+doc_0133,unusual_amount,anomaly_detection,Quantity of 'Laptop 14 inch' inflated to 120
+doc_0134,buyer_trn_bad_format,official_rules,Buyer TRN does not end in 03 (140692566636330)
+doc_0135,total_mismatch,official_rules,Total incl. VAT printed as 1752.15 instead of 1762.15
+doc_0143,unusual_amount,anomaly_detection,Quantity of 'كرسي مكتب مريح' inflated to 400
+doc_0147,due_before_issue,uae_checks,Due date 2026-06-15 is before issue date 2026-06-23
+doc_0156,buyer_trn_missing,official_rules,Buyer TRN not printed
+doc_0159,line_total_wrong,official_rules,"Line 'Paint, emulsion 18 L' total printed as 2792.00 instead of 2802.00"
+doc_0162,buyer_trn_bad_format,official_rules,Buyer TRN does not end in 03 (172438546905900)
+doc_0166,total_mismatch,official_rules,Total incl. VAT printed as 20108.10 instead of 20208.10
+doc_0170,due_before_issue,uae_checks,Due date 2026-05-07 is before issue date 2026-05-16
+doc_0171,unusual_amount,anomaly_detection,Quantity of 'حديد تسليح 12 مم (طن)' inflated to 30
+doc_0172,buyer_trn_missing,official_rules,Buyer TRN not printed
+doc_0174,total_mismatch,official_rules,Total incl. VAT printed as 3590.87 instead of 3540.87
+doc_0176,due_before_issue,uae_checks,Due date 2026-01-14 is before issue date 2026-01-27
+doc_0179,unusual_amount,anomaly_detection,Quantity of 'Cleaning detergent 5 L' inflated to 360
+doc_0182,due_before_issue,uae_checks,Due date 2026-02-24 is before issue date 2026-03-09
+doc_0186,buyer_trn_missing,official_rules,Buyer TRN not printed
+doc_0191,buyer_trn_missing,official_rules,Buyer TRN not printed
+doc_0195,buyer_trn_missing,official_rules,Buyer TRN not printed
+doc_0199,buyer_trn_bad_format,official_rules,Buyer TRN does not end in 03 (183755559747500)
+doc_0207,total_mismatch,official_rules,Total incl. VAT printed as 2929.98 instead of 2879.98
+doc_0214,unusual_amount,anomaly_detection,Quantity of 'Catering service per person' inflated to 750
+doc_0225,line_total_wrong,official_rules,Line 'Catering service per person' total printed as 1433.50 instead of 1443.50
+doc_0226,vat_miscalculated,official_rules,VAT printed as 85.25 instead of 85.25 (on_gross)
+doc_0236,vat_miscalculated,official_rules,VAT printed as 73.76 instead of 73.76 (rate10)
+doc_0244,unusual_amount,anomaly_detection,Quantity of 'Laptop 14 inch' inflated to 750
+doc_0245,line_total_wrong,official_rules,Line 'Consultancy' total printed as 798.09 instead of 778.09
+doc_0250,buyer_trn_short,official_rules,Buyer TRN printed with 14 digits (11306681792203)
+doc_0252,unusual_amount,anomaly_detection,Quantity of 'AC maintenance visit' inflated to 750
+doc_0256,line_total_wrong,official_rules,Line 'LED panel light 60x60' total printed as 2171.80 instead of 2221.80
+doc_0257,vat_miscalculated,official_rules,VAT printed as 3417.21 instead of 3417.21 (rate10)
+doc_0258,buyer_trn_short,official_rules,Buyer TRN printed with 14 digits (18202582201803)
+doc_0263,buyer_trn_bad_format,official_rules,Buyer TRN does not end in 03 (167534789713300)
+doc_0266,unusual_amount,anomaly_detection,Quantity of 'AC maintenance visit' inflated to 150
+doc_0269,buyer_trn_bad_format,official_rules,Buyer TRN does not end in 03 (103703826538430)
+doc_0275,total_mismatch,official_rules,Total incl. VAT printed as 18966.66 instead of 19066.66
+doc_0280,total_mismatch,official_rules,Total incl. VAT printed as 7515.08 instead of 7525.08
+doc_0283,buyer_trn_missing,official_rules,Buyer TRN not printed
+doc_0284,total_mismatch,official_rules,Total incl. VAT printed as 1560.98 instead of 1550.98
+doc_0294,buyer_trn_missing,official_rules,Buyer TRN not printed
+doc_0300,due_before_issue,uae_checks,Due date 2026-07-16 is before issue date 2026-08-09
+doc_0301,duplicate_invoice,anomaly_detection,Same invoice as doc_0163
+doc_0302,duplicate_invoice,anomaly_detection,Same invoice as doc_0054
+doc_0303,duplicate_invoice,anomaly_detection,Same invoice as doc_0008
+doc_0304,duplicate_invoice,anomaly_detection,Same invoice as doc_0155
+doc_0305,duplicate_invoice,anomaly_detection,Same invoice as doc_0089
+doc_0306,duplicate_invoice,anomaly_detection,Same invoice as doc_0001
+doc_0307,duplicate_invoice,anomaly_detection,Same invoice as doc_0158
+doc_0308,duplicate_invoice,anomaly_detection,Same invoice as doc_0065
+doc_0309,duplicate_invoice,anomaly_detection,Same invoice as doc_0264
+doc_0310,duplicate_invoice,anomaly_detection,Same invoice as doc_0148
+doc_0311,duplicate_invoice,anomaly_detection,Same invoice as doc_0106
+doc_0312,duplicate_invoice,anomaly_detection,Same invoice as doc_0137

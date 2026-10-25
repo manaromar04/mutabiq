@@ -1,0 +1,124 @@
+{
+  "doc_id": "doc_0186",
+  "file": "doc_0186.pdf",
+  "layout": "L8_bi_mixed",
+  "language": "bi",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "buyer_trn_missing",
+      "description": "Buyer TRN not printed"
+    }
+  ],
+  "invoice": {
+    "number": "TI/26/318",
+    "issue_date": "2026-04-02",
+    "due_date": "2026-04-17",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Falcon Line General Trading LLC",
+      "legal_name_alt": "خط الصقر للتجارة العامة ذ.م.م",
+      "trn": "152059972837903",
+      "street": "Al Barsha 1",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "727191"
+    },
+    "buyer": {
+      "legal_name": "Al Rayyan Trading LLC",
+      "legal_name_alt": "الريان للتجارة ذ.م.م",
+      "trn": null,
+      "street": "Al Nuaimiya Street",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "815188"
+    },
+    "lines": [
+      {
+        "description": "Safety helmet",
+        "quantity": "5",
+        "unit_price": "30.20",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "650610",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "A4 copy paper (box of 5 reams)",
+        "quantity": "3",
+        "unit_price": "128.05",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "480256",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Laptop 14 inch",
+        "quantity": "25",
+        "unit_price": "3453.03",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "847130",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "دهان مائي 18 لتر",
+        "quantity": "20",
+        "unit_price": "124.86",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "320910",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "LED panel light 60x60",
+        "quantity": "1",
+        "unit_price": "66.59",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "940540",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "أنبوب بي في سي 4 إنش (6 م)",
+        "quantity": "50",
+        "unit_price": "41.45",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "391723",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

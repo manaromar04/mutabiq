@@ -1,0 +1,88 @@
+{
+  "doc_id": "doc_0226",
+  "file": "doc_0226.pdf",
+  "layout": "L2_en_plain",
+  "language": "en",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "vat_miscalculated",
+      "description": "VAT printed as 85.25 instead of 85.25 (on_gross)"
+    }
+  ],
+  "invoice": {
+    "number": "AE-INV-0054",
+    "issue_date": "2026-01-30",
+    "due_date": null,
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Al Jazeera Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "175475177992203",
+      "street": "Hamdan Street",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "317040"
+    },
+    "buyer": {
+      "legal_name": "Crescent Bay Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "113006681792203",
+      "street": "Al Jurf Industrial Area",
+      "city": "Al Ain",
+      "emirate": "AUH",
+      "country": "AE",
+      "trade_license": "CN-4974284"
+    },
+    "lines": [
+      {
+        "description": "Equipment rental (day)",
+        "quantity": "1",
+        "unit_price": "745.39",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "DAY",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "997313",
+        "stated_net": null
+      },
+      {
+        "description": "Printer toner cartridge",
+        "quantity": "1",
+        "unit_price": "339.35",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "844399",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Engine oil 5W-30 4 L",
+        "quantity": "6",
+        "unit_price": "89.84",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "271019",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": null,
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": "1623.78",
+    "stated_vat": "85.25",
+    "stated_total_incl_vat": "1709.03"
+  }
+}

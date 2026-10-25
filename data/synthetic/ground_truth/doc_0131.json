@@ -1,0 +1,98 @@
+{
+  "doc_id": "doc_0131",
+  "file": "doc_0131.jpg",
+  "layout": "L6_bi_band",
+  "language": "bi",
+  "variant": "photo",
+  "degradation": {
+    "perspective": true,
+    "jpeg_quality": 72
+  },
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "INV0038",
+    "issue_date": "2026-02-21",
+    "due_date": "2026-04-22",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Silver Dune Building Materials Trading",
+      "legal_name_alt": "الكثبان الفضية لتجارة مواد البناء",
+      "trn": "187680457178403",
+      "street": "Al Jurf Industrial Area",
+      "city": "Ajman",
+      "emirate": "AJM",
+      "country": "AE",
+      "trade_license": "291940"
+    },
+    "buyer": {
+      "legal_name": "Desert Rose Trading LLC",
+      "legal_name_alt": "وردة الصحراء للتجارة ذ.م.م",
+      "trn": "140692566636303",
+      "street": "King Faisal Street",
+      "city": "Sharjah",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "CN-3100642"
+    },
+    "lines": [
+      {
+        "description": "منظف 5 لتر",
+        "quantity": "1",
+        "unit_price": "43.15",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "340220",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "خوذة سلامة",
+        "quantity": "3",
+        "unit_price": "22.04",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "650610",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Laptop 14 inch",
+        "quantity": "12",
+        "unit_price": "4702.92",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "847130",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "خرطوشة حبر طابعة",
+        "quantity": "20",
+        "unit_price": "310.49",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "844399",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE906113875921153277186",
+    "payment_terms": "Net 60",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

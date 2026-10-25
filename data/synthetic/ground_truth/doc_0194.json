@@ -1,0 +1,95 @@
+{
+  "doc_id": "doc_0194",
+  "file": "doc_0194.pdf",
+  "layout": "L8_bi_mixed",
+  "language": "bi",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "TI/26/326",
+    "issue_date": "2026-06-02",
+    "due_date": "2026-06-17",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Falcon Line General Trading LLC",
+      "legal_name_alt": "خط الصقر للتجارة العامة ذ.م.م",
+      "trn": "152059972837903",
+      "street": "Al Barsha 1",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "727191"
+    },
+    "buyer": {
+      "legal_name": "Al Safa IT Solutions LLC",
+      "legal_name_alt": "الصفا لحلول تقنية المعلومات ذ.م.م",
+      "trn": "183755559747503",
+      "street": "Hamdan Street",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "138498"
+    },
+    "lines": [
+      {
+        "description": "Safety helmet",
+        "quantity": "1",
+        "unit_price": "24.94",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "650610",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "خرطوشة حبر طابعة",
+        "quantity": "5",
+        "unit_price": "183.84",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "844399",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Frozen chicken 10 kg",
+        "quantity": "4",
+        "unit_price": "100.75",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "020712",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Cement bag 50 kg",
+        "quantity": "4",
+        "unit_price": "18.49",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "252329",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

@@ -16,6 +16,7 @@ flags problems for an accountant to review, and reports how ready the business i
 |---|---|
 | `app/models.py` | The internal invoice model every document is converted into |
 | `app/mapping/ubl.py` | Writes an invoice as PINT AE 1.0.4 UBL XML |
+| `app/profile.py` | Fills mandatory details from the seller's business profile |
 | `app/validation/schematron.py` | Runs the **official** PINT AE 1.0.4 rules (OpenPeppol Schematron) |
 | `rules/pint-ae-1.0.4/` | Official PINT AE Billing 1.0.4 package: rules, code lists, examples, docs |
 | `data_generator/` | Creates the synthetic bilingual invoice dataset |
@@ -27,14 +28,15 @@ flags problems for an accountant to review, and reports how ready the business i
 Open the repo in **GitHub Codespaces** (Code → Codespaces → Create). Everything installs automatically. Then:
 
 ```bash
-pytest -q                     # run the tests
+pytest -q                                                   # run the tests
+python -m data_generator.generate --out data/synthetic      # regenerate the dataset
 ```
 
 ## Status
 
 - [x] Official PINT AE 1.0.4 validation running (all 28 official examples pass)
 - [x] Invoice model and PINT AE XML generator (generated invoices and credit notes pass validation)
-- [ ] Synthetic invoice dataset
+- [x] Synthetic invoice dataset (312 documents, 83 planted errors; see `data/synthetic/README.md`)
 - [ ] Extraction (OCR + LLM)
 - [ ] UAE-specific checks and anomaly detection
 - [ ] Web app (upload, review queue, readiness report)

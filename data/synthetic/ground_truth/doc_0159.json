@@ -1,0 +1,106 @@
+{
+  "doc_id": "doc_0159",
+  "file": "doc_0159.jpg",
+  "layout": "L7_bi_boxed",
+  "language": "bi",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": 0.14,
+    "grayscale": true,
+    "blur": 2,
+    "noise": 7.0,
+    "jpeg_quality": 60
+  },
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "line_total_wrong",
+      "description": "Line 'Paint, emulsion 18 L' total printed as 2792.00 instead of 2802.00"
+    }
+  ],
+  "invoice": {
+    "number": "INV-2026-0304",
+    "issue_date": "2026-03-03",
+    "due_date": "2026-04-02",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Al Khaleej Contracting LLC",
+      "legal_name_alt": "مؤسسة الخليج للمقاولات",
+      "trn": "151362701079803",
+      "street": "Al Jurf Industrial Area",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "CN-2393608"
+    },
+    "buyer": {
+      "legal_name": "Al Hikma Logistics FZE",
+      "legal_name_alt": "الحكمة للخدمات اللوجستية م.م.ح",
+      "trn": "167534789713303",
+      "street": "Musaffah M-12",
+      "city": "Sharjah",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "CN-2943688"
+    },
+    "lines": [
+      {
+        "description": "محول شبكة 24 منفذ",
+        "quantity": "2",
+        "unit_price": "669.55",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "851762",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Safety helmet",
+        "quantity": "20",
+        "unit_price": "40.22",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "650610",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Paint, emulsion 18 L",
+        "quantity": "20",
+        "unit_price": "140.10",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "320910",
+        "service_code": null,
+        "stated_net": "2792.00"
+      },
+      {
+        "description": "استشارات",
+        "quantity": "1",
+        "unit_price": "1343.99",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998311",
+        "stated_net": null
+      }
+    ],
+    "iban": "AE622614883615202994461",
+    "payment_terms": "Net 30",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": "6279.49",
+    "stated_vat": "314.47",
+    "stated_total_incl_vat": "6593.96"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0016",
+  "file": "doc_0016.pdf",
+  "layout": "L1_en_band",
+  "language": "en",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "line_total_wrong",
+      "description": "Line 'Frozen chicken 10 kg' total printed as 587.42 instead of 597.42"
+    }
+  ],
+  "invoice": {
+    "number": "INV-2026-0224",
+    "issue_date": "2026-05-03",
+    "due_date": "2026-05-18",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Desert Rose Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "198698797309103",
+      "street": "King Faisal Street",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "CN-2857850"
+    },
+    "buyer": {
+      "legal_name": "Palm Gate Office Supplies Trading",
+      "legal_name_alt": null,
+      "trn": "125898319489303",
+      "street": "Corniche Road",
+      "city": "Sharjah",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "690171"
+    },
+    "lines": [
+      {
+        "description": "Frozen chicken 10 kg",
+        "quantity": "6",
+        "unit_price": "99.57",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "020712",
+        "service_code": null,
+        "stated_net": "587.42"
+      }
+    ],
+    "iban": "AE489992480052791372987",
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": "587.42",
+    "stated_vat": "29.87",
+    "stated_total_incl_vat": "617.29"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "doc_0086",
+  "file": "doc_0086.pdf",
+  "layout": "L4_ar_band",
+  "language": "ar",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "vat_miscalculated",
+      "description": "VAT printed as 294.82 instead of 294.82 (rate10)"
+    }
+  ],
+  "invoice": {
+    "number": "AE-INV-0135",
+    "issue_date": "2026-04-13",
+    "due_date": null,
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "الطريق المشرق لحلول تقنية المعلومات ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "132081967273103",
+      "street": "شارع الملك فيصل",
+      "city": "الفجيرة",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": null
+    },
+    "buyer": {
+      "legal_name": "مؤسسة المنارة للمقاولات",
+      "legal_name_alt": null,
+      "trn": "137355696327903",
+      "street": "شارع الاتحاد",
+      "city": "أم القيوين",
+      "emirate": "UAQ",
+      "country": "AE",
+      "trade_license": "552246"
+    },
+    "lines": [
+      {
+        "description": "تأجير معدات (يوم)",
+        "quantity": "4",
+        "unit_price": "651.99",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "DAY",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "997313",
+        "stated_net": null
+      },
+      {
+        "description": "خدمة تموين للشخص",
+        "quantity": "3",
+        "unit_price": "113.41",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996334",
+        "stated_net": null
+      }
+    ],
+    "iban": "AE868584638849855683068",
+    "payment_terms": null,
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": "2948.19",
+    "stated_vat": "294.82",
+    "stated_total_incl_vat": "3243.01"
+  }
+}

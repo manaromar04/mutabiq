@@ -1,0 +1,98 @@
+{
+  "doc_id": "doc_0210",
+  "file": "doc_0210.jpg",
+  "layout": "L1_en_band",
+  "language": "en",
+  "variant": "photo",
+  "degradation": {
+    "perspective": true,
+    "jpeg_quality": 58
+  },
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "00069",
+    "issue_date": "2026-03-19",
+    "due_date": "2026-04-18",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Blue Coast IT Solutions LLC",
+      "legal_name_alt": null,
+      "trn": "194866283601603",
+      "street": "Al Majaz 2",
+      "city": "Sharjah",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": null
+    },
+    "buyer": {
+      "legal_name": "Crescent Bay Trading LLC",
+      "legal_name_alt": null,
+      "trn": "137392419689803",
+      "street": "Corniche Road",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "CN-3235607"
+    },
+    "lines": [
+      {
+        "description": "Catering service per person",
+        "quantity": "1",
+        "unit_price": "115.02",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996334",
+        "stated_net": null
+      },
+      {
+        "description": "Installation service",
+        "quantity": "2",
+        "unit_price": "283.00",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998732",
+        "stated_net": null
+      },
+      {
+        "description": "Equipment rental (day)",
+        "quantity": "4",
+        "unit_price": "470.45",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "DAY",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "997313",
+        "stated_net": null
+      },
+      {
+        "description": "AC maintenance visit",
+        "quantity": "4",
+        "unit_price": "519.80",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998719",
+        "stated_net": null
+      }
+    ],
+    "iban": "AE876156795965056547056",
+    "payment_terms": "Net 30",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

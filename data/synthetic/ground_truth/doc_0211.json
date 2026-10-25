@@ -1,0 +1,77 @@
+{
+  "doc_id": "doc_0211",
+  "file": "doc_0211.jpg",
+  "layout": "L1_en_band",
+  "language": "en",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": 0.92,
+    "grayscale": true,
+    "blur": 2,
+    "noise": 7.4,
+    "jpeg_quality": 42
+  },
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "00070",
+    "issue_date": "2026-03-23",
+    "due_date": "2026-04-22",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Blue Coast IT Solutions LLC",
+      "legal_name_alt": null,
+      "trn": "194866283601603",
+      "street": "Al Majaz 2",
+      "city": "Sharjah",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": null
+    },
+    "buyer": {
+      "legal_name": "Crescent Bay Trading LLC",
+      "legal_name_alt": null,
+      "trn": "137392419689803",
+      "street": "Corniche Road",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "CN-3235607"
+    },
+    "lines": [
+      {
+        "description": "IT support (monthly)",
+        "quantity": "1",
+        "unit_price": "3228.63",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "MON",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998313",
+        "stated_net": null
+      },
+      {
+        "description": "Delivery charges",
+        "quantity": "8",
+        "unit_price": "218.70",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996511",
+        "stated_net": null
+      }
+    ],
+    "iban": "AE876156795965056547056",
+    "payment_terms": "Net 30",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

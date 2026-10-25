@@ -1,0 +1,112 @@
+{
+  "doc_id": "doc_0280",
+  "file": "doc_0280.xlsx",
+  "layout": "spreadsheet",
+  "language": "en",
+  "variant": "xlsx",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "total_mismatch",
+      "description": "Total incl. VAT printed as 7515.08 instead of 7525.08"
+    }
+  ],
+  "invoice": {
+    "number": "INV0280",
+    "issue_date": "2026-03-06",
+    "due_date": "2026-03-06",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "نجم الشرق لتجارة اللوازم المكتبية",
+      "legal_name_alt": null,
+      "trn": "126468616425203",
+      "street": "البرشاء 1",
+      "city": "الشارقة",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "586450"
+    },
+    "buyer": {
+      "legal_name": "الشراع الذهبي للتجارة العامة ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "179511174432503",
+      "street": "البرشاء 1",
+      "city": "العين",
+      "emirate": "AUH",
+      "country": "AE",
+      "trade_license": "630864"
+    },
+    "lines": [
+      {
+        "description": "بطارية سيارة 70 أمبير",
+        "quantity": "4",
+        "unit_price": "534.19",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "850710",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "طقم فحمات فرامل",
+        "quantity": "12",
+        "unit_price": "238.12",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "870830",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "أرز بسمتي 25 كغ",
+        "quantity": "3",
+        "unit_price": "122.68",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "100630",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "خرطوشة حبر طابعة",
+        "quantity": "2",
+        "unit_price": "263.75",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "844399",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "إضاءة ليد 60×60",
+        "quantity": "10",
+        "unit_price": "127.70",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "940540",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE779235240137615610591",
+    "payment_terms": "Due on receipt",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": "7515.08"
+  }
+}

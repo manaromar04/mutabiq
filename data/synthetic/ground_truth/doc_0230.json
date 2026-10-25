@@ -1,0 +1,83 @@
+{
+  "doc_id": "doc_0230",
+  "file": "doc_0230.pdf",
+  "layout": "L2_en_plain",
+  "language": "en",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "AE-INV-0058",
+    "issue_date": "2026-03-05",
+    "due_date": null,
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Al Jazeera Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "175475177992203",
+      "street": "Hamdan Street",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "317040"
+    },
+    "buyer": {
+      "legal_name": "Al Manara Office Supplies Trading",
+      "legal_name_alt": null,
+      "trn": "103703826538403",
+      "street": "Al Barsha 1",
+      "city": "Ras Al Khaimah",
+      "emirate": "RAK",
+      "country": "AE",
+      "trade_license": "310742"
+    },
+    "lines": [
+      {
+        "description": "Network switch 24-port",
+        "quantity": "5",
+        "unit_price": "925.94",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "851762",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Printer toner cartridge",
+        "quantity": "20",
+        "unit_price": "195.63",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "844399",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Catering service per person",
+        "quantity": "8",
+        "unit_price": "109.52",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996334",
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": null,
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "doc_id": "doc_0275",
+  "file": "doc_0275.jpg",
+  "layout": "L3_en_boxed",
+  "language": "en",
+  "variant": "photo",
+  "degradation": {
+    "perspective": true,
+    "jpeg_quality": 59
+  },
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "total_mismatch",
+      "description": "Total incl. VAT printed as 18966.66 instead of 19066.66"
+    }
+  ],
+  "invoice": {
+    "number": "S0025",
+    "issue_date": "2026-07-24",
+    "due_date": "2026-08-08",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Coral Reef Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "118603208073703",
+      "street": "Al Barsha 1",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "CN-1343426"
+    },
+    "buyer": {
+      "legal_name": "Al Hikma Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "167534789713303",
+      "street": "Musaffah M-12",
+      "city": "Sharjah",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "CN-2943688"
+    },
+    "lines": [
+      {
+        "description": "Consultancy",
+        "quantity": "12",
+        "unit_price": "1122.88",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998311",
+        "stated_net": null
+      },
+      {
+        "description": "IT support (monthly)",
+        "quantity": "1",
+        "unit_price": "4684.16",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "MON",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998313",
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": "18966.66"
+  }
+}

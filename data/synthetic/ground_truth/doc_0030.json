@@ -1,0 +1,65 @@
+{
+  "doc_id": "doc_0030",
+  "file": "doc_0030.jpg",
+  "layout": "L2_en_plain",
+  "language": "en",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": 0.93,
+    "grayscale": true,
+    "blur": 1,
+    "noise": 13.1,
+    "jpeg_quality": 52
+  },
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "TI/26/362",
+    "issue_date": "2026-03-02",
+    "due_date": "2026-03-17",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Al Waha Trading LLC",
+      "legal_name_alt": null,
+      "trn": "164556815188403",
+      "street": "Khalifa Street",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "CN-5825159"
+    },
+    "buyer": {
+      "legal_name": "Al Safa IT Solutions LLC",
+      "legal_name_alt": null,
+      "trn": "183755559747503",
+      "street": "Hamdan Street",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "138498"
+    },
+    "lines": [
+      {
+        "description": "Frozen chicken 10 kg",
+        "quantity": "12",
+        "unit_price": "99.69",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "020712",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

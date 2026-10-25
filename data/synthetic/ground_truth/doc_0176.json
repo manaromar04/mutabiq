@@ -1,0 +1,82 @@
+{
+  "doc_id": "doc_0176",
+  "file": "doc_0176.jpg",
+  "layout": "L8_bi_mixed",
+  "language": "bi",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": 0.41,
+    "grayscale": true,
+    "blur": 2,
+    "noise": 11.9,
+    "jpeg_quality": 42
+  },
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "due_before_issue",
+      "description": "Due date 2026-01-14 is before issue date 2026-01-27"
+    }
+  ],
+  "invoice": {
+    "number": "TI/26/308",
+    "issue_date": "2026-01-27",
+    "due_date": "2026-01-14",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Falcon Line General Trading LLC",
+      "legal_name_alt": "خط الصقر للتجارة العامة ذ.م.م",
+      "trn": "152059972837903",
+      "street": "Al Barsha 1",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "727191"
+    },
+    "buyer": {
+      "legal_name": "Al Safa Logistics FZE",
+      "legal_name_alt": "الصفا للخدمات اللوجستية م.م.ح",
+      "trn": "128357699085403",
+      "street": "Al Wahda Street",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "583381"
+    },
+    "lines": [
+      {
+        "description": "دجاج مجمد 10 كغ",
+        "quantity": "4",
+        "unit_price": "115.25",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "020712",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Paint, emulsion 18 L",
+        "quantity": "20",
+        "unit_price": "213.48",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "320910",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

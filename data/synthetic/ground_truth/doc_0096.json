@@ -1,0 +1,130 @@
+{
+  "doc_id": "doc_0096",
+  "file": "doc_0096.jpg",
+  "layout": "L4_ar_band",
+  "language": "ar",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": 0.83,
+    "grayscale": true,
+    "blur": 1,
+    "noise": 11.7,
+    "jpeg_quality": 58
+  },
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "vat_miscalculated",
+      "description": "VAT printed as 1168.35 instead of 1168.35 (typo)"
+    }
+  ],
+  "invoice": {
+    "number": "AE-INV-0145",
+    "issue_date": "2026-07-16",
+    "due_date": null,
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "الطريق المشرق لحلول تقنية المعلومات ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "132081967273103",
+      "street": "شارع الملك فيصل",
+      "city": "الفجيرة",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": null
+    },
+    "buyer": {
+      "legal_name": "الورقة الخضراء للخدمات الفنية ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "104422485272203",
+      "street": "المجاز 2",
+      "city": "الشارقة",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "CN-1899976"
+    },
+    "lines": [
+      {
+        "description": "تأجير معدات (يوم)",
+        "quantity": "2",
+        "unit_price": "335.36",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "DAY",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "997313",
+        "stated_net": null
+      },
+      {
+        "description": "استشارات",
+        "quantity": "4",
+        "unit_price": "1196.60",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998311",
+        "stated_net": null
+      },
+      {
+        "description": "رسوم توصيل",
+        "quantity": "1",
+        "unit_price": "96.87",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996511",
+        "stated_net": null
+      },
+      {
+        "description": "زيارة صيانة مكيفات",
+        "quantity": "3",
+        "unit_price": "472.78",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998719",
+        "stated_net": null
+      },
+      {
+        "description": "خدمة تركيب",
+        "quantity": "25",
+        "unit_price": "401.31",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "HUR",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998732",
+        "stated_net": null
+      },
+      {
+        "description": "خدمة تموين للشخص",
+        "quantity": "50",
+        "unit_price": "87.24",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "C62",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "996334",
+        "stated_net": null
+      }
+    ],
+    "iban": "AE868584638849855683068",
+    "payment_terms": null,
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": "21367.08",
+    "stated_vat": "1168.35",
+    "stated_total_incl_vat": "22535.43"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "doc_id": "doc_0171",
+  "file": "doc_0171.pdf",
+  "layout": "L7_bi_boxed",
+  "language": "bi",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "unusual_amount",
+      "description": "Quantity of 'حديد تسليح 12 مم (طن)' inflated to 30"
+    }
+  ],
+  "invoice": {
+    "number": "INV-2026-0316",
+    "issue_date": "2026-05-22",
+    "due_date": "2026-06-21",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Al Khaleej Contracting LLC",
+      "legal_name_alt": "مؤسسة الخليج للمقاولات",
+      "trn": "151362701079803",
+      "street": "Al Jurf Industrial Area",
+      "city": "Dubai",
+      "emirate": "DXB",
+      "country": "AE",
+      "trade_license": "CN-2393608"
+    },
+    "buyer": {
+      "legal_name": "Al Manara General Trading LLC",
+      "legal_name_alt": "المنارة للتجارة العامة ذ.م.م",
+      "trn": "142843528144903",
+      "street": "Al Jurf Industrial Area",
+      "city": "Ras Al Khaimah",
+      "emirate": "RAK",
+      "country": "AE",
+      "trade_license": "763949"
+    },
+    "lines": [
+      {
+        "description": "IT support (monthly)",
+        "quantity": "1",
+        "unit_price": "2293.74",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "MON",
+        "goods_or_services": "S",
+        "hs_code": null,
+        "service_code": "998313",
+        "stated_net": null
+      },
+      {
+        "description": "حديد تسليح 12 مم (طن)",
+        "quantity": "30",
+        "unit_price": "2862.12",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "TNE",
+        "goods_or_services": "G",
+        "hs_code": "721420",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "خوذة سلامة",
+        "quantity": "5",
+        "unit_price": "30.58",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "650610",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE622614883615202994461",
+    "payment_terms": "Net 30",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "doc_id": "doc_0282",
+  "file": "doc_0282.xlsx",
+  "layout": "spreadsheet",
+  "language": "en",
+  "variant": "xlsx",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "INV0282",
+    "issue_date": "2026-03-28",
+    "due_date": "2026-03-28",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "نجم الشرق لتجارة اللوازم المكتبية",
+      "legal_name_alt": null,
+      "trn": "126468616425203",
+      "street": "البرشاء 1",
+      "city": "الشارقة",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "586450"
+    },
+    "buyer": {
+      "legal_name": "الكثبان الفضية للتجارة العامة ذ.م.م",
+      "legal_name_alt": null,
+      "trn": "138178057803703",
+      "street": "شارع الشيخ زايد",
+      "city": "عجمان",
+      "emirate": "AJM",
+      "country": "AE",
+      "trade_license": "CN-1788770"
+    },
+    "lines": [
+      {
+        "description": "مياه شرب 500 مل (كرتون)",
+        "quantity": "1",
+        "unit_price": "12.34",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "220110",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "زيت محرك 5W-30 4 لتر",
+        "quantity": "2",
+        "unit_price": "160.00",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "271019",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "حاسوب محمول 14 إنش",
+        "quantity": "25",
+        "unit_price": "2216.05",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "847130",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE779235240137615610591",
+    "payment_terms": "Due on receipt",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

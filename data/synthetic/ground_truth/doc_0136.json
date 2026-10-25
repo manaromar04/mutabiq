@@ -1,0 +1,95 @@
+{
+  "doc_id": "doc_0136",
+  "file": "doc_0136.pdf",
+  "layout": "L6_bi_band",
+  "language": "bi",
+  "variant": "pdf",
+  "degradation": {},
+  "duplicate_of": null,
+  "errors": [],
+  "invoice": {
+    "number": "INV0043",
+    "issue_date": "2026-03-29",
+    "due_date": "2026-05-28",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Silver Dune Building Materials Trading",
+      "legal_name_alt": "الكثبان الفضية لتجارة مواد البناء",
+      "trn": "187680457178403",
+      "street": "Al Jurf Industrial Area",
+      "city": "Ajman",
+      "emirate": "AJM",
+      "country": "AE",
+      "trade_license": "291940"
+    },
+    "buyer": {
+      "legal_name": "Silver Dune Auto Spare Parts Trading",
+      "legal_name_alt": "الكثبان الفضية لتجارة قطع غيار السيارات",
+      "trn": "136360824456003",
+      "street": "Al Ittihad Road",
+      "city": "Sharjah",
+      "emirate": "SHJ",
+      "country": "AE",
+      "trade_license": "646326"
+    },
+    "lines": [
+      {
+        "description": "بطارية سيارة 70 أمبير",
+        "quantity": "8",
+        "unit_price": "339.47",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "850710",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Paint, emulsion 18 L",
+        "quantity": "1",
+        "unit_price": "212.50",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "320910",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Cement bag 50 kg",
+        "quantity": "1",
+        "unit_price": "20.36",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "252329",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Laptop 14 inch",
+        "quantity": "4",
+        "unit_price": "3955.73",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "847130",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": "AE906113875921153277186",
+    "payment_terms": "Net 60",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": null,
+    "stated_vat": null,
+    "stated_total_incl_vat": null
+  }
+}

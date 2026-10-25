@@ -1,0 +1,118 @@
+{
+  "doc_id": "doc_0257",
+  "file": "doc_0257.jpg",
+  "layout": "L3_en_boxed",
+  "language": "en",
+  "variant": "scan",
+  "degradation": {
+    "rotation_deg": -0.02,
+    "grayscale": false,
+    "blur": 0,
+    "noise": 10.5,
+    "jpeg_quality": 60
+  },
+  "duplicate_of": null,
+  "errors": [
+    {
+      "type": "vat_miscalculated",
+      "description": "VAT printed as 3417.21 instead of 3417.21 (rate10)"
+    }
+  ],
+  "invoice": {
+    "number": "S0007",
+    "issue_date": "2026-03-02",
+    "due_date": "2026-03-17",
+    "type_code": "380",
+    "currency": "AED",
+    "seller": {
+      "legal_name": "Coral Reef Logistics FZE",
+      "legal_name_alt": null,
+      "trn": "118603208073703",
+      "street": "Al Barsha 1",
+      "city": "Fujairah",
+      "emirate": "FUJ",
+      "country": "AE",
+      "trade_license": "CN-1343426"
+    },
+    "buyer": {
+      "legal_name": "Al Mustaqbal Trading LLC",
+      "legal_name_alt": null,
+      "trn": "117883655062003",
+      "street": "Corniche Road",
+      "city": "Ras Al Khaimah",
+      "emirate": "RAK",
+      "country": "AE",
+      "trade_license": "686071"
+    },
+    "lines": [
+      {
+        "description": "Laptop 14 inch",
+        "quantity": "6",
+        "unit_price": "2313.62",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "847130",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Safety helmet",
+        "quantity": "5",
+        "unit_price": "21.29",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "650610",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Network switch 24-port",
+        "quantity": "3",
+        "unit_price": "1502.54",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "851762",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "Brake pads set",
+        "quantity": "50",
+        "unit_price": "285.45",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "870830",
+        "service_code": null,
+        "stated_net": null
+      },
+      {
+        "description": "A4 copy paper (box of 5 reams)",
+        "quantity": "12",
+        "unit_price": "116.98",
+        "vat_rate": "5",
+        "vat_category": "S",
+        "unit_code": "H87",
+        "goods_or_services": "G",
+        "hs_code": "480256",
+        "service_code": null,
+        "stated_net": null
+      }
+    ],
+    "iban": null,
+    "payment_terms": "Net 15",
+    "original_invoice_number": null,
+    "original_invoice_date": null,
+    "credit_reason_code": "DL8.61.1.E",
+    "stated_total_excl_vat": "34172.05",
+    "stated_vat": "3417.21",
+    "stated_total_incl_vat": "37589.26"
+  }
+}
